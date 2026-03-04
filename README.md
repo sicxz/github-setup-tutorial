@@ -1,6 +1,4 @@
-**Setup check completed.** 
-
-# Antigravity synced and logged in. 
+**Setup check completed.**
 
 # GitHub Starter Tutorial: Toolchain Setup for New Builders
 
@@ -11,6 +9,7 @@ Goal: create one GitHub repository named `github-startup`, clone it locally, and
 No HTML, CSS, or development experience is required.
 
 After setup is complete, you can move to one of the build tracks:
+
 - Week 8 Personal Dashboard
 - Project #5 Research Dashboard
 
@@ -19,6 +18,7 @@ After setup is complete, you can move to one of the build tracks:
 ## What You'll Finish
 
 By the end, you will have:
+
 - a GitHub repository named `github-startup`
 - a local clone in `Documents/GitHub/github-startup`
 - VS Code connected to your GitHub account
